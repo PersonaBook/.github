@@ -12,7 +12,7 @@
 
 ## 🖼️ 시스템 아키텍처
 
-![System Architecture](assets/시스템_아키텍처.jpg)
+![System Architecture](./시스템_아키텍처.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ https://www.figma.com/design/XE0okH23BBH3Sgld85ljAA/4-1%EC%A1%B0-Chatbot-Project
 [ChatHistory 저장 + 응답 반환]
 ```
 
-![Sequence Diagram](assets/서비스_흐름_시퀀스_다이어그램.png)
+![Sequence Diagram](./서비스_흐름_시퀀스_다이어그램.png)
 
 ### 🤖 AI 학습 도우미 챗봇(상태 기반 흐름)
 
