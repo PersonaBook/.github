@@ -203,4 +203,5 @@ GOOGLE_CSE_ID=xxxxxxxxxxxx
 
 - 현재 API 키 만료로 테스트를 못함
 - pdf 임베딩이 되지 않음(자바의정석.pdf 업로드만 지원함)
-- ..
+  - `BookEmbeddingService.java` 와 클라이언트단 코드 리팩토링 해야 함
+- ...
